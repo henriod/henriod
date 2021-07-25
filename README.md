@@ -1,6 +1,7 @@
+![I am Geospatial Engineer and Developer](https://github.com/henriod/henriod/blob/main/banner.png)
 ### Hi there 👋, I'm Odhiambo
 #### I am Geospatial Engineer and Developer
-![I am Geospatial Engineer and Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I develop location aware web and mobile system, i love playing with spatial data on web and mobile plateform for visualization and interaction. Cadastre and Land administration system is first love.
 
