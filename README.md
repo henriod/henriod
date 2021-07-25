@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Odhiambo
+#### I am Geospatial Engineer and Developer
+![I am Geospatial Engineer and Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**henriod/henriod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop location aware web and mobile system, i love playing with spatial data on web and mobile plateform for visualization and interaction. Cadastre and Land administration system is first love.
 
-Here are some ideas to get you started:
+Skills: Django, Geodjango, Angular, Dart, Flutter, Leaflet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Flutter 
+- 💬 Working with spatial data on web applications 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/benard-odhiambo-528456110/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Henriod93)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13461735)  
+
