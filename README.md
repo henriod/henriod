@@ -12,7 +12,7 @@ Skills:
 - Leaflet
 - 3D and Virtual Tours with Cesiumjs and panolensjs
 
-
+My current Status
 - 🌱 I’m currently learning Vue 
 - 💬 Working with spatial data on web applications 
 
