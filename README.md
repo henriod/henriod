@@ -5,10 +5,15 @@
 
 I develop location aware web and mobile system, i love playing with spatial data on web and mobile plateform for visualization and interaction. Cadastre and Land administration system is first love.
 
-Skills: Django, Geodjango, Angular, Dart, Flutter, Leaflet
+Skills: 
+- Django (Geodjango), 
+- Angular, 
+- Dart (Flutter), 
+- Leaflet
+- 3D and Virtual Tours with Cesiumjs and panolensjs
 
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Vue 
 - 💬 Working with spatial data on web applications 
 
 
