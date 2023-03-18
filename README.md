@@ -3,14 +3,17 @@
 #### I am Geospatial Engineer and Developer
 
 
-I develop location aware web and mobile system, i love playing with spatial data on web and mobile plateform for visualization and interaction. Cadastre and Land administration system is first love.
+I develop location aware web and mobile system, i love playing with spatial data on web and mobile platform for visualization and interaction. Cadastre and Land administration system is first love.
 
 Skills: 
 - Django (Geodjango), 
+- FastAPI, 
+- SQLAlchemy,
 - Angular, 
 - Dart (Flutter), 
-- Leaflet
+- Leaflet,
 - 3D and Virtual Tours with Cesiumjs and panolensjs
+- Database (Postgresql, mysql)
 
 My current Status
 - 🌱 I’m currently learning Vue 
