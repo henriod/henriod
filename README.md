@@ -1,4 +1,3 @@
-![I am Sofware Engineer(Geospatial)](https://github.com/henriod/henriod/blob/main/banner.png)
 ### Hello 👋, I'm Odhiambo,
 
 As a Software Engineer with an educational background in Geospatial Engineering, I thrive in developing location-aware applications for both web and mobile ecosystems with a major focus on the backend. My core competencies extend from database design, data analysis, API design, and interactive mapping to land administration systems. Beyond geospatial applications, my skills are also rooted in the broader landscape of software development.
