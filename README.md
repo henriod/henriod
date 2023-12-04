@@ -5,9 +5,10 @@ As a Software Engineer with an educational background in Geospatial Engineering,
 Skills:
 - Backend: Django (GeoDjango), FastAPI, SQLAlchemy, Flask, Nodejs(Express)
 - Frontend: Angular, Dart (Flutter)
-- Mapping & Visualization: Leaflet, CesiumJS, PanoLensJS
-- Database Management: PostgreSQL, MySQL, MongoDB
-- DevOps: Docker, Bash Scripting, AWS, GCS, Linux
+- Mapping & Visualization: Leaflet, MapboxGL, GMaps, CesiumJS
+- VirtualTours: ThreeJS, PanolensJS
+- Database Management: PostgreSQL, MySQL, MongoDB, CouchDB, DuckDB
+- DevOps: Docker, Bash Scripting, AWS, GCS, Linux, VPS
 
 Current Status:
 - 🌱 I'm actively expanding my skill set by diving into Vue.js.
